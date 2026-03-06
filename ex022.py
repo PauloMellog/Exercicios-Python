@@ -1,0 +1,7 @@
+nome = str(input('Qual seu nome completo?'))
+splitado = nome.split()
+stripado = nome.strip()
+print(nome.upper())
+print(nome.lower())
+print('Seu nome tem {} letras.'.format(len(stripado) - nome.count(' ')))
+print(len(splitado[0]))
