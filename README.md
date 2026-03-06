@@ -1,2 +1,2 @@
-# Exercicios-Python
-Exercícios simples para treinar e aprender python
+# Exercicios em Python
+Exercícios simples, que usei para **treinar** e **aprender** python, abordando os básicos da linguagem.
